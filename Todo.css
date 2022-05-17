@@ -1,0 +1,32 @@
+.form-field{
+height:150px;
+width:50%;
+background-color: blanchedalmond;
+margin-top: 25px;
+}
+.form_input{
+    margin-top: 50px;
+    padding: 10px;
+}
+.form-field button{
+    margin-left: 20px;
+}
+#division_id{
+    height:50px;
+    width: 50%;
+    background-color: blueviolet;
+    display: flex;
+    align-items: center;
+    font-size:20px;
+    margin-top: 10px;
+}#ele_id{
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+    overflow-wrap: break-word;
+}
+#delete_id{
+    margin-inline-start: auto;
+    padding: 10px;
+    margin-right: 5px;
+}
